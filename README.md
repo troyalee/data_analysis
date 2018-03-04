@@ -1,4 +1,5 @@
-## data_analysis
+## Data Analysis Projects
+
 ### Classification
 >Iris dataset test competition <br>
 >Titanic: Machine Learning from Disaster
