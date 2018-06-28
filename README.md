@@ -6,3 +6,6 @@ _________
 ### Regression
 >House Prices: Advanced Regression Techniques
 
+### Tableau Visualization
+> Wine Production
+> Toughest Sport Ranking (ESPN)
