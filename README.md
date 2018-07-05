@@ -11,6 +11,6 @@ _________
 
 ### Tableau Visualization
 > Wine Production <br>
-> Toughest Sport Ranking (ESPN)
-> Jobs at Risk
+> Toughest Sport Ranking (ESPN) <br>
+> Jobs at Risk <br>
 > German Auto Production
