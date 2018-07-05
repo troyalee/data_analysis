@@ -6,6 +6,11 @@ _________
 ### Regression
 >House Prices: Advanced Regression Techniques
 
+### Sentiment Analysis
+> Starry Station Amazon Review
+
 ### Tableau Visualization
 > Wine Production <br>
 > Toughest Sport Ranking (ESPN)
+> Jobs at Risk
+> German Auto Production
