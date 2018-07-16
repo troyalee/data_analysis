@@ -104,9 +104,10 @@ for row in company_code.iterrows():
 	name, code = row[1][0], row[1][1]
 
 	try:
-		 stock_data.iloc[row[0],0:33] = list(get_fin_stat(name, code, 2015, 0, 'Y').iloc[:,0])
-		 stock_data.iloc[row[0],33:35] = list(get_1st_last_price_2017(name, code).iloc[:,0])
+		stock_data.iloc[row[0],0:33] = list(get_fin_stat(name, code, 2015, 0, 'Y').iloc[:,0])
+		stock_data.iloc[row[0],33:35] = list(get_1st_last_price_2017(name, code).iloc[:,0])
 		stock_data.iloc[row[0],35] = list(get_1st_price_2016(name, code).iloc[:,0])
+		
 	except:
 		# KONEX market 
 		stock_data.iloc[row[0],:] = [np.nan]
