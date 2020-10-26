@@ -8,9 +8,3 @@ _________
 
 ### Sentiment Analysis
 > Starry Station Amazon Review
-
-### Tableau Visualization
-> Wine Production <br>
-> Toughest Sport Ranking (ESPN) <br>
-> Jobs at Risk <br>
-> German Auto Production
